@@ -1,4 +1,4 @@
-# Aula de C# - Jogo da palavra
+# Aula de C# - Cálculo Retangulo
 
 Desenvolvido código onde se coloca o valores para o cálculo da área, perímetro e diagonal de um retangulo, Aula Desvtars - PCDdevs.
 
